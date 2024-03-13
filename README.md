@@ -1,0 +1,1 @@
+Este código es una aplicación Android que escanea y muestra las redes Wi-Fi disponibles. 
